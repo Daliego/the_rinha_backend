@@ -1,0 +1,9 @@
+services:
+  database:
+    image: 'postgres:14.6'
+    ports:
+      - '5432'
+    environment:
+      - 'POSTGRES_USER=postgres'
+      - 'POSTGRES_DB=new_rinha_backend'
+      - 'POSTGRES_PASSWORD=@Poli1983.'
