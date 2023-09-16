@@ -11,5 +11,3 @@ COPY target/rinha_backend-0.0.1-SNAPSHOT.jar app/app.jar
 EXPOSE 8080
 
 CMD ["java", "-jar", "app.jar"]
-
-ENTRYPOINT ["top", "-b"]
