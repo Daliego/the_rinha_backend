@@ -2,12 +2,12 @@
 FROM openjdk:17
 
 # Set the working directory
-WORKDIR app
+WORKDIR /app
 
 # Copy the packaged Spring Boot JAR file into the container
-COPY target/rinha_backend-0.0.1-SNAPSHOT.jar app/app.jar
+COPY target/rinha_backend-0.0.1-SNAPSHOT.jar /app/app.jar
 
 # Expose the port that your Spring Boot application uses
 EXPOSE 8080
 
-CMD ["java", "-jar", "app.jar"]
+CMD ["java", "-jar", "/app/app.jar"]
