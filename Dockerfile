@@ -1,6 +1,3 @@
-FROM ubuntu:latest
-LABEL authors="diego"
-
 # Use an official OpenJDK image as the base image
 FROM openjdk:17
 
