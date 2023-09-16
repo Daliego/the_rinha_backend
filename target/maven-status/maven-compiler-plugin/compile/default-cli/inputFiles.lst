@@ -1,0 +1,8 @@
+C:\Users\diego\Programacao\ADS_2023.2\programacao_para_internet_II\rinha_backend\rinha_backend\src\main\java\com\example\rinha_backend\domain\dtos\CreatePersonDto.java
+C:\Users\diego\Programacao\ADS_2023.2\programacao_para_internet_II\rinha_backend\rinha_backend\src\main\java\com\example\rinha_backend\domain\entities\Person.java
+C:\Users\diego\Programacao\ADS_2023.2\programacao_para_internet_II\rinha_backend\rinha_backend\src\main\java\com\example\rinha_backend\domain\errors\AppErrorException.java
+C:\Users\diego\Programacao\ADS_2023.2\programacao_para_internet_II\rinha_backend\rinha_backend\src\main\java\com\example\rinha_backend\RinhaBackendApplication.java
+C:\Users\diego\Programacao\ADS_2023.2\programacao_para_internet_II\rinha_backend\rinha_backend\src\main\java\com\example\rinha_backend\domain\repository\PersonRepository.java
+C:\Users\diego\Programacao\ADS_2023.2\programacao_para_internet_II\rinha_backend\rinha_backend\src\main\java\com\example\rinha_backend\domain\services\PersonUsecase.java
+C:\Users\diego\Programacao\ADS_2023.2\programacao_para_internet_II\rinha_backend\rinha_backend\src\main\java\com\example\rinha_backend\domain\exeptionHandler\ExpetionHandler.java
+C:\Users\diego\Programacao\ADS_2023.2\programacao_para_internet_II\rinha_backend\rinha_backend\src\main\java\com\example\rinha_backend\presentation\PersonController.java
