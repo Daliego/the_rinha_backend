@@ -14,9 +14,9 @@ EXPOSE 8080
 #ENV DB_URL=postgres://postgresql:RXWhBNTx0V2sSJAIUEnHinIuAAg6hXmz@dpg-ck2evjb6fquc73cahkpg-a/new_rinha_backend_efia
 #ENV DB_USERNAME=postgresql
 #ENV DB_PASSWORD=RXWhBNTx0V2sSJAIUEnHinIuAAg6hXmz
-ENV DB_URL=${URL}
-ENV DB_USERNAME=${USERNAME}
-ENV DB_PASSWORD=${PASSWORD}
+#ENV DB_URL=${URL}
+#ENV DB_USERNAME=${USERNAME}
+#ENV DB_PASSWORD=${PASSWORD}
 
 #Spring boot final build name and localization on target
 
